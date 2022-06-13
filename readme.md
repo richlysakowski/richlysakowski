@@ -1,5 +1,5 @@
 ## Rich Lysakowski
-# EXAMPLE - Abraham Parker - Data Scientist and Systems Administrator
+# Data Scientist, Application Developer, and Systems Administrator
 
 <p dir="auto" align="center">
     Data Scientist and Data Analytics Engineer passionate about working with data in many business enviroments.  My technical areas of expertise include application design and development  in Python, SQL, and web (HTML, CSS, Javascript) languages in Docker, Windows, and Linux environments.  I have experience with dozens of Python packages for analytics and web development.  My portfolio includes many projects where I have applied my data analytics, website development, statistics and machine learning skills. <br><br> Contact me to learn more and engage my skills on your project.<br><br>
@@ -15,10 +15,10 @@
 
 **The cell below is used to import your banner image and properly scale it.**   
 
-<img src="images/data-science.jpg" width="45%"/>
+<img src="data_science.jpg" width="45%"/>
 
 ***IMAGE TOO BIG***
-![welcome_gif](images/data-science.jpg)
+![welcome_gif](data_science.jpg)
 
 ***HERE'S AN EXAMPLE OF A ROTATING GIF IMAGE***
 
