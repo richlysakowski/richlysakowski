@@ -15,10 +15,10 @@
 
 **The cell below is used to import your banner image and properly scale it.**   
 
-<img src="data_science.jpg" width="45%"/>
+<img src="data-science.jpg" width="45%"/>
 
 ***IMAGE TOO BIG***
-![welcome_gif](data_science.jpg)
+![welcome_gif](data-science.jpg)
 
 ***HERE'S AN EXAMPLE OF A ROTATING GIF IMAGE***
 
@@ -101,10 +101,7 @@ Here are some ideas to get you started:
 {"Author": "Rich Lysakowski", "Updated": "2022-06-11" }
 ```
 
-
-
-
-    {'Author': 'Rich Lysakowski', 'Updated': '2022-06-11'}
+{'Author': 'Rich Lysakowski', 'Updated': '2022-06-11'}
 
 
 
