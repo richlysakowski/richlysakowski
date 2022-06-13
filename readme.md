@@ -15,17 +15,6 @@
 
 **The cell below is used to import your banner image and properly scale it.**   
 
-How to scale images using Markdown and HTML: 
-https://stackoverflow.com/questions/60627697/how-to-shrink-the-size-of-the-image-that-has-opened-in-jupyter-notebook-by-using/60638679#60638679
-
-***Rotating gifs work great and attract and retain attention better than static images.*  
-
-Be careful to select a banner image that is very wide (most of the viewable page width), and not very tall.  Images that are too tall consume too much of your home page header vertical area.  This distracts people and does not let them see your written descriptions immediately.  It forces them to scroll to see your written content, which is risky because people with little time or attention span can become impatient and just move on to another website.**
-
-***DELETE THESE INSTRUCTIONS WHEN FINISHED:***
-
-***IMAGE SCALED TO 45% BUT NOT WIDE ENOUGH***
-
 <img src="images/data-science.jpg" width="45%"/>
 
 ***IMAGE TOO BIG***
@@ -75,14 +64,6 @@ Here are some ideas to get you started:
 
 #### Creating Shields and Badges
 
-There are several websites that create and serve up badges.  Shields.io lets you reference existing shields or generate new shields and badges.  https://shields.io/category/social  
-
-You will find others using Google Search.
-
-Juputer NB displays these badges on separate lines.  However, GITHUB should display badges within the same `<span>` tag on the same line.  
-
-***DELETE THESE INSTRUCTIONS WHEN DONE.***
-
 <img src="https://img.shields.io/badge/Postgres-DBMS-red">
 
 <span>
@@ -114,12 +95,6 @@ Juputer NB displays these badges on separate lines.  However, GITHUB should disp
     <img src="https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white">
     <img src="https://img.shields.io/badge/scikit_learn-7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </p>
-
-# FINALIZE AND POST YOUR HOME PAGE 
-
-(SEE INSTRUCTIONS ABOVE)
-
-***DELETE THIS CELL WHEN FINISHED EDITING YOUR GITHUB.COM HOME PAGE***
 
 
 ```python
