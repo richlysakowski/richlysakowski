@@ -15,20 +15,16 @@
 ***IMAGE TOO BIG***
 ![welcome_gif](data-science.jpg)
 
-<img src="https://raw.githubusercontent.com/richlysakowski/richlysakowski/main/welcome.gif" width="45%"/>
+<img src="https://raw.githubusercontent.com/richlysakowski/richlysakowski/main/welcome.gif" width="25%"/>
 
 # **Check out my main projects:**
-
 ## [Frackaton-Frontend](https://github.com/OctoCode/hackaton-frontend)
-
 Admin template based on Angular 7+, Bootstrap 4 and Nebular
-
 ## [Akveo-Dashboard](https://www.akveo.com/ngx-admin/pages/dashboard)
 
 <!--**alg2code/alg2code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
