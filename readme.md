@@ -3,7 +3,9 @@
 
 <p dir="auto" align="left">
 Passionate about working with leading-edge technologies for intelligent data discovery and collection, data analytics, visualization, and reporting in industry and business environments.  Technical expertise includes full SDLC skills for application and system analysis, design, programming, debugging, deployment, support, and training.  Favorite languages are Python, SQL, and web languages (HTML, CSS, Javascript), in Windows, Linux, Docker, and Cloud environments.  I have experience using 100s of Python packages to develop applications and utilities for intelligent analytics, statistical analysis, machine learning and predictive analytics, AI and deep learning, and web app.  I am an expert technology trainer and educator with decades of experience developing and delivering curricula, courses, workshops, and short courses.  I love applying my business analysis and technical skills in large and small enterprises.  <br><br> Contact me to learn more and engage my skills on your project.<br><br>
-<a href="https://www.linkedin.com/in/rich-lysakowski-phd/ src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/rich-lysakowski-phd/>
+         
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 
 <a href="mailto:rich.lysakowski@gmail.com?subject=[GitHub]%20Hello%20Rich" >
 <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
