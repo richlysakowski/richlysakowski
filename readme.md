@@ -12,27 +12,18 @@
 </p>
 
 ## YOUR HOME PAGE BANNER IMAGE
-
 ### INSERT AND PROPERLY SCALE YOUR HOME PAGE BANNER IMAGE
-
 **The cell below is used to import your banner image and properly scale it.**   
-
 <img src="data-science.jpg" width="45%"/>
-
 ***IMAGE TOO BIG***
 ![welcome_gif](data-science.jpg)
 
 ***HERE'S AN EXAMPLE OF A ROTATING GIF IMAGE***
 
 ***DELETE THIS CELL WHEN FINISHED:***
-
-https://raw.githubusercontent.com/diandramelo/diandramelo/main/welcome.gif
-
-![Welcome!](https://raw.githubusercontent.com/diandramelo/diandramelo/main/welcome.gif)
-
 ***banner image rotating gif made smaller***
 
-<img src="https://raw.githubusercontent.com/diandramelo/diandramelo/main/welcome.gif" width="45%"/>
+<img src="https://raw.githubusercontent.com/richlysakowski/richlysakowski/main/welcome.gif" width="45%"/>
 
 # **Check out my main projects:**
 
