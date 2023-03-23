@@ -4,6 +4,7 @@
 <p dir="auto" align="left">
 Passionate about working with leading-edge technologies for intelligent data discovery and collection, data analytics, visualization, and reporting in industry and business environments.  Technical expertise includes full SDLC skills for application and system analysis, design, programming, debugging, deployment, support, and training.  Favorite languages are Python, SQL, and web languages (HTML, CSS, Javascript), in Windows, Linux, Docker, and Cloud environments.  I have experience using 100s of Python packages to develop applications and utilities for intelligent analytics, statistical analysis, machine learning and predictive analytics, AI and deep learning, and web app.  I am an expert technology trainer and educator with decades of experience developing and delivering curricula, courses, workshops, and short courses.  I love applying my business analysis and technical skills in large and small enterprises.  <br><br> Contact me to learn more and engage my skills on your project.<br><br>
 <a href="https://www.linkedin.com/in/rich-lysakowski-phd/>
+## [Rich Lysakowski LinkedIn Home Page](https://www.linkedin.com/in/rich-lysakowski-phd/)
          
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 
