@@ -1,8 +1,8 @@
 # Rich Lysakowski, Ph.D.
-#### Data Scientist, Analytics and AI Application Developer, Senior Business Analyst and Process Engineer, Database and Systems Administrator
+#### AI and Business Analytics Developer, Data Scientist, Senior Business Analyst and Process Engineer, Database and Systems Administrator
 
 <p dir="auto" align="left">
-Passionate about working with leading-edge technologies for intelligent data discovery and collection, data analytics, visualization, and reporting in industry and business environments.  Technical expertise includes full SDLC skills for application and system analysis, design, programming, debugging, deployment, support, and training.  Favorite languages are Python, SQL, and web languages (HTML, CSS, Javascript), in Windows, Linux, Docker, and Cloud environments.  I have experience using 100s of Python packages to develop applications and utilities for intelligent analytics, statistical analysis, machine learning and predictive analytics, AI and deep learning, and web app.  I am an expert technology trainer and educator with decades of experience developing and delivering curricula, courses, workshops, and short courses.  I love applying my business analysis and technical skills in large and small enterprises.  <br><br> Contact me to learn more and engage my skills on your project.<br><br>
+Passionate about working with leading-edge technologies for intelligent data discovery and collection, data analytics, visualization, and reporting in industrial and business environments.  Technical expertise includes full SDLC skills for application and system analysis, design, programming, debugging, deployment, support, and training.  Favorite languages are Python, SQL, and web languages (HTML, CSS, Javascript), in Windows, Linux, Docker, and Cloud environments.  I have experience using 100s of Python packages to develop applications and utilities for AI, intelligent analytics, predictive analytics, statistical analysis, machine learning and deep learning, and web-based systems.  I am an expert technology trainer and educator with decades of experience developing and delivering curricula, courses, workshops, and short courses.  I love applying my business analysis and technical skills in large and small enterprises.  <br><br> Contact me to learn more and engage my skills on your project.<br><br>
 <a href="https://www.linkedin.com/in/rich-lysakowski-phd/>
 ## [Rich Lysakowski LinkedIn Home Page](https://www.linkedin.com/in/rich-lysakowski-phd/)
          
@@ -15,10 +15,12 @@ Passionate about working with leading-edge technologies for intelligent data dis
 <!--![welcome_gif](data-science.jpg) -->
 <img src="https://raw.githubusercontent.com/richlysakowski/richlysakowski/main/welcome.gif" width="25%"/>
 
+<!--
 # **Check out my projects:**
 ## [Frackaton-Frontend](https://github.com/OctoCode/hackaton-frontend)
 Admin template based on Angular 7+, Bootstrap 4 and Nebular
 ## [Akveo-Dashboard](https://www.akveo.com/ngx-admin/pages/dashboard)
+-->
 
 <!--**alg2code/alg2code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -70,9 +72,6 @@ Here are some ideas to get you started:
 ```
 
 {'Author': 'Rich Lysakowski', 'Updated': '2022-06-11'}
-
-
-
 
 ```python
 
