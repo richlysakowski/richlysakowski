@@ -17,7 +17,6 @@ Passionate about working with leading-edge technologies for intelligent data dis
 
 <!--
 # **Check out my projects:**
-## [Frackaton-Frontend](https://github.com/OctoCode/hackaton-frontend)
 Admin template based on Angular 7+, Bootstrap 4 and Nebular
 ## [Akveo-Dashboard](https://www.akveo.com/ngx-admin/pages/dashboard)
 -->
