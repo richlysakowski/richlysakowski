@@ -74,11 +74,5 @@ Here are some ideas to get you started:
 
 
 ```python
-{"Author": "Rich Lysakowski", "Updated": "2022-06-11" }
-```
-
-{'Author': 'Rich Lysakowski', 'Updated': '2022-06-11'}
-
-```python
-
+{"Author": "Rich Lysakowski", "Updated": "2023-08-25" }
 ```
