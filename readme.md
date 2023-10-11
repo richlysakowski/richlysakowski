@@ -6,15 +6,17 @@ Passionate about working with leading-edge technologies for intelligent data dis
 
 In my personal time, I am actively using the latest Generative AI developer and end user tools and packages.  I am working on to SMARTLY SIMPLIFY advanced AI and data analytics for business and scientific applications.  Currently there are many steep learning curves for people to climb before they can intelligently apply AI technologies.  There is too much NOISE about AI -- and not enough SIGNAL.  We need to discover first-hand what really works, and raise the baseline of AI wisdom high above the popular media's noise.  My job as a trainer and educator is to develop knowledge, hard implementation skills, and tools know-how in my trainees amd clients.  AI technology is advancing FAST toward "AGI" -- right now its baby steps -- but within months major breakthroughs will cause seimic shifts in the balance of power between humans and AI agents.  Every day I am testing yet another LLM applications like AutoGPT, MetaGPT, LocalGPT, DoctorGPT, DB-GPT, GPT-Engineer, and other domain-specific tools.  My goal is to deeply understand Language Models (LLMs) and apply them to text, imagery, sound, and music to create comprehensive and multi-modal generative experiences to accelerate human learning and individual power.  A current project is to generate a current State-of-the-Art (SOTA) AI Guide and Developer Assistant for Prompt Engineering and Intelligent Agent Chaining Systems.  New cutting-edge tools appear weekly, far too fast for regular humans to stay to master in a normal workweek. 
 
-I also have a very strong commitment to ensuring that we can run "democratized" high-performing LOCAL AI systems -- that is 100% OFF-THE-CLOUD -- without requiring any major cloud platforms.  These LOCAL AI systems must not be considered "edge" nodes on the global internet.  What people call "The Cloud" is a few Big Tech cloud platform vendors CONSPIRING TOGETHER TO INSOURCE AND CONTROL ALL JOBS in IT and computing.  They are steadily and substantially in-sourcing most tech jobs to their own corporations, leaving millions of citizens without meaningful work.  If normal citizens don't re-power, re-source, and revert "The Cloud" back to "The Edge", entire segments of white collar and brown collar society will be marginalized within the next 5-10 years.  Big Tech Cloud vendors will CONTROL ("OWN") all jobs they insourced, and place the jobs anywhere that labor is cheapest, including to automated software agents.  People left on "The Edge" will be marginalized.  The Cloud takes power away from the individuals and gives it to Big Tech.  Local, democractized AI brings power back to the people.  Let's make sure AI stays democratized and off-the-cloud (and online only when absolutely required).  
+I also have a very strong commitment to ensuring that we can run "democratized" high-performing LOCAL AI systems -- that is 100% OFF-THE-CLOUD -- without requiring any major cloud platforms.  These LOCAL AI systems must not be considered "edge" nodes on the global internet.  What people call "The Cloud" is a few Big Tech cloud platform vendors CONSPIRING TOGETHER TO INSOURCE AND CONTROL ALL JOBS in IT and computing.  They are steadily and substantially in-sourcing most tech jobs to their own corporations, leaving millions of citizens without meaningful work.  If normal citizens don't re-power, re-source, and revert "The Cloud" back to "The Edge", entire segments of white collar and brown collar society will be marginalized within the next 5-10 years.  Big Tech Cloud vendors will CONTROL ("OWN") all jobs they insourced, and place the jobs anywhere that labor is cheapest, including to automated software agents.  People left on "The Edge" will be marginalized.  The Cloud takes power away from the individuals and gives it to Big Tech.  Local, democractized AI brings power back to the people.  
+
+Individuals must ensure that AI stays democratized and off-the-cloud (and online only when absolutely required).  Big Tech Cloud providers will prevail otherwise.  
+
+<br>
+
+***Remember "Human Lives Matter" (HLM)!  Cloud computing is a tool, not the endpoint for society.***
 
 <br><br>
 
-<b>Remember "Human Lives Matter" (HLM)!  Cloud computing is a tool, not the endpoint for society.<\b>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/rich-lysakowski-phd/>
+https://www.linkedin.com/in/rich-lysakowski-phd
 ## [Rich Lysakowski LinkedIn Home Page](https://www.linkedin.com/in/rich-lysakowski-phd/)
          
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
