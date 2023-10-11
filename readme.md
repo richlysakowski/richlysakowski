@@ -9,7 +9,8 @@ In my personal time, I am actively using the latest Generative AI developer and 
 I also have a very strong and active interest in running high-performing AI LOCAL "democratized" systems that run locally (100% "offline") without requiring any major cloud platforms.  These LOCAL systems must not be considered "edge" nodes on the global internet.  What people call "The Cloud" is a few large cloud platform vendors CONSPIRING TOGETHER TO INSOURCE AND CONTROL ALL JOBS in IT and computing, in-source them to their own corporations, leaving millions of citizens without meaningful work.  If normal citizens don't re-source "The Cloud" back to "The Edge", entire segments of white collar and brown collar society will be marginalized within the next 10 years.  Big Tech Cloud vendors will OWN, i.e., control, all the jobs they insourced to their cloud business, and can easily place the work anywhere that labor is cheapest, including to automated software agents.  People on "The Edge" will be on the margins of society.  Local, democractic AI brings power back to the people.  The Cloud takes power away from the people.  Let's make sure AI stays democratized, offline and online.  
 
 <br><br>
-Remember "Human Lives Matter" (HLM)!  Cloud computing is a tool, not the endpoint for society.
+
+<b>Remember "Human Lives Matter" (HLM)!  Cloud computing is a tool, not the endpoint for society.<\b>
 
 <br><br>
 
