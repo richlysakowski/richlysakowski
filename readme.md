@@ -1,32 +1,33 @@
 # Rich Lysakowski, Ph.D.
-#### AI and Business Analytics Software Developer, Data Scientist, Senior Business Analyst, Process Engineer, Database and Systems Administrator
+#### AI and Business Intelligence Developer, Data Scientist, Senior Business Analyst and Process Engineer, DBA and Systems Admin
 
 <p dir="auto" align="left">
-Passionate about working with leading-edge technologies for intelligent data discovery and collection, data analytics, visualization, and reporting in industrial and business environments.  Technical expertise includes full SDLC skills for application and system analysis, design, programming, debugging, deployment, support, and training.  Favorite languages are Python, SQL, and web languages (HTML, CSS, Javascript), in Windows, Linux, and Docker environments, and (when required) Cloud environments.  
+Passionate about applying leading-edge technologies for intelligent data discovery and collection, analytics, visualization, and reporting in business and industrial environments.  Technical expertise encompass full SDLC skills from systems analysis and design, programming, debugging, deployment, support, and training.  Favorite languages are Python, SQL, and web languages (HTML, CSS, Javascript) on Windows, Linux, Docker, and Azure/AWS/GCP Cloud environments (as required). 
     
 ## Current R&D Work
-I actively research and develop techniques, applications, and training to harness powerful Generative AI, Prompt Engineering, and intelligent workflow chaining systems using Large Language Models.  I have experience with 100s of Python packages to develop applications and utilities for AI, intelligent analytics, predictive analytics, statistical analysis, machine learning and deep learning, and web-based systems.  I have 30+ years experience an expert trainer and educator developing and delivering training curricula, courses, workshops, and short courses.  
+I actively research and develop applications, and training to harness Generative AI, Prompt Engineering, and intelligent workflow chaining applications using Large Language Models.  I have experience with 100s of Python packages to develop applications and utilities for AI, intelligent advanced predictive analytics, ML, deep learning, and web-based systems.  I have 30+ years experience an trainer and educator developing and delivering training curricula, courses, workshops, and short courses.  I teach from time to time, but my passion is training people to use tools and methods to learn faster and remember for longer.  
 
-I love applying my business analysis and technical skills in large and small enterprises.  I am an acknowledged SME expert in data and records management, IT systems, and scientific and lab informatics across the value chain (R&D through Manufacturing) in pharmaceuticals and biotech, and Finance.  Contact me to learn more and engage my skills on your project.
+I love applying my business analysis and technical skills in large and small enterprises.  I am an acknowledged SME expert in data and records management, IT systems, and scientific and lab informatics across value chains in pharmaceutical and biotech R&D through Manufacturing, Finance and trading.  Contact me to engage my skills on your project.
 
 ## Development Work
-In my personal time, I am actively using the latest Generative AI developer and end user tools and packages.  I am working on to SMARTLY SIMPLIFY advanced AI and data analytics for business and scientific applications.  Currently there are (too) many steep learning curves for people to climb before they can apply AI technologies.  There is too much NOISE about AI -- and not enough SIGNAL.  We need to discover first-hand what really works, and raise the baseline of AI wisdom high above the popular media's noise.  My job as a trainer and educator is to create knowledge, transfer hard implementation skills, and instill know-how in my trainees and clients.  AI technology is advancing FAST toward "AGI" -- right now in baby steps -- but major breakthroughs within months will cause seimic shifts in the balance of power between humans and AI agents.  
+In my personal time, I am actively learning and applying the State Of The Art (SOTA) Generative AI tools and packages.  I am working to SMARTLY SIMPLIFY advanced AI and data analytics.  There are (too) many steep learning curves for people to climb before they can apply AI technologies.  **Too much NOISE about AI -- and NOT ENOUGH SIGNAL!**  People must discover first-hand what really works, and raise the baseline of AI wisdom high above the popular media's noise.  My job as a trainer transfer hard implementation skills, and instill know-how in my trainees and clients.  AI technology is advancing FAST toward "AGI".  First it was the pitter patter of baby steps, but now the gallop has started, with leapfrogs every other week.  ***Major breakthroughs in 2024 within months will cause seimic shifts in the balance of power between humans and AI agents.***  
 
-Every day I am testing yet another LLM Agent builder application like AutoGPT, MetaGPT, LocalGPT, DoctorGPT, babyAGI, DB-GPT, GPT-Engineer, AutoGen Studio, and other domain-specific tools.  My goal is to learn Language Models (LLMs) as much as possbile and apply them to text, imagery, sound, and music to create comprehensive and multi-modal generative experiences to accelerate human learning and individual power.  One current project is to generate a current State-of-the-Art (SOTA) AI Guide and Developer Assistant for Prompt Engineering and Intelligent Agent Chaining Systems.  New cutting-edge tools appear weekly, far too fast for regular humans to master in a normal workweek.  We need automated real-time knowledge acquisition tools that simplify and transparently explain the new tools to newbies, "on demand" and "just-in-time" in the moment when human curiosity arises.
+Every week I am testing yet another LLM Agent builder application like OpenDevin, AutoGPT, MetaGPT, LocalGPT, DoctorGPT, babyAGI, DB-GPT, Pinokio, GPT-Engineer, AutoGen Studio, and other domain-specific tools.  My goal is to learn Large Language Models (LLMs) as much as possbile and apply them to text, images, sound, and music.  The goal is comprehensive and multi-modal generative experiences to accelerate human learning and individual power.  One current project is to create a State-of-the-Art (SOTA) AI Guide and Developer Assistant for Prompt Engineering and Intelligent Agent Chaining Systems.  New bleeding-edge tools appear weekly, far too fast for regular humans to consume or master in a normal workmonth.  We need automated real-time knowledge acquisition tools that simplify explain new tools to newbies, "on demand" and "just-in-time" in the moment, before the spark of human curiosity extinguishes.
 
 ## Democratized AI-Powered By End Users Throughout the World
-I have a very strong commitment to ensuring that we can run "democratized" high-performing LOCAL AI systems -- that is 100% OFF-THE-CLOUD -- without requiring ANY major cloud platforms.  Our LOCAL AI systems must not be considered "edge" nodes on the global internet.  What people call "The Cloud" is a few Big Tech cloud platform vendors WITH COMMON GOALS TO INSOURCE AND CONTROL AS MANY IT JOBS AND AS MUCH AI POWER AS POSSIBLE.  They conspire in their commitment to lead the AI Arms race and beat or consume competitors anywhere they arise.  Big Tech companies are steadily and substantially in-sourcing tech jobs to their own corporations, leaving millions of citizens without meaningful work.  
+I have a strong commitment for ***individuals to run high-performing "democratized" LOCAL AI systems*** -- that is **100% OFF-THE-CLOUD** -- without requiring ANY major cloud platforms.  ***LOCAL AI systems must not be considered "edge" nodes on the global internet.***  What people call "The Cloud" is a few Big Tech cloud platform vendors WITH COMMON GOALS TO INSOURCE AND CONTROL AS MANY TECH JOBS, PLUS AS MUCH AI POWER AS POSSIBLE.  They conspire in their commitment to lead the AI Arms race, and beat or consume competitors anywhere they arise.  Big Tech companies are steadily and substantially in-sourcing tech jobs to their own corporations, leaving millions of citizens without meaningful work.  
 
-## Get Out of the Borg - User-Centric Computing
-If normal citizens don't re-power, re-source, and revert "The Cloud" back to "The Edge", then entire segments of white, brown, and blue collar workers will be marginalized within the next 5-10 years.  Big Tech Cloud vendors will CONTROL ALL JOBS they insource.  Once they control ("OWN") them, they will place these jobs anywhere that quality labor is cheapest.  AI software agents require only electricity to work.  AI software agents don't need salaries, nutrition, nurturing, sleep, exercise, sex, emotional support, or other "human overhead".  AI agents are an obvious endpoint to place many jobs.  The argument that AI cannot produce the same high-level of quality as humans can is simply wrong.  AI already (often) produces higher quality and consistency for many tasks and products.  AI systems quality and sophistication are improving faster than most people can understand.  As more jobs move to the cloud or disappear, people left on "The Edge" will be marginalized.  The Cloud takes power away from the individuals and gives it to Big Tech.  Local, democractized AI brings power back to the people.  
+## Get Out of the Borg - And Back Into User-Centric Computing
+If normal citizens don't re-power, re-source, and revert "The Cloud" back to "The Edge", then entire segments of white, brown, and blue collar workers will be marginalized by 2030.  Big Tech Cloud vendors will CONTROL ALL JOBS they insource.  Once they control ("OWN") them, they will place these jobs anywhere that quality labor is cheapest.  AI agents require only electricity to work.  AI software agents don't need salaries, nutrition, nurturing, sleep, exercise, sex, emotional support, or other "human overhead".  AI agents are an obvious endpoint to "in-source" many jobs.  The argument that AI cannot produce the same high-level of quality as humans is simply wrong.  AI already (often) produces higher quality and consistency for many tasks and work products.  AI systems quality and sophistication are improving faster than most people can understand.  From the 2000s Mike Hammer's and SAP's re-engineering waves moved jobs off-shore.  In the 2020s, more jobs move off-ground to the cloud, and then disappear to AI agents and robots.  Humans left on "The Edge" will be marginalized.  The Cloud moves economic power and control away from individuals and gives it to Big Tech.  ***IT managers, CIOs, CTOs, CDOs beware! ... AI is coming for your job sooner than you think.***  Local, democractized AI will bring power back to the people.  
 
-Individuals must ensure that AI stays democratized and runs equally well locally, off-the-cloud (and online only when absolutely required).  Big Tech Cloud providers will prevail otherwise.  
+Individuals must ensure that AI stays democratized and runs equally well locally -- off-the-cloud -- and online only when absolutely required.  Big Tech Cloud providers will prevail otherwise.  
 
 ***Remember "Human Lives Matter" (HLM)!  Cloud computing is a tool, not the endpoint for society.***
 
-Updated: 2024.01.31
+Updated: 2024.04.12
 
 https://www.linkedin.com/in/rich-lysakowski-phd
+
 ## [Rich Lysakowski LinkedIn Home Page](https://www.linkedin.com/in/rich-lysakowski-phd/)
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -43,20 +44,6 @@ https://www.linkedin.com/in/rich-lysakowski-phd
 Admin template based on Angular 7+, Bootstrap 4 and Nebular
 ## [Akveo-Dashboard](https://www.akveo.com/ngx-admin/pages/dashboard)
 -->
-
-<!--**alg2code/alg2code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <img src="https://img.shields.io/badge/Postgres-DBMS-red">
 <span>
 <span display="inline" height="20px" class="common__BadgeWrapper-sc-11baoah-3 iwwuaY"><img alt="success" src="https://img.shields.io/badge/-success-success"></span>
