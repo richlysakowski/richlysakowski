@@ -62,7 +62,6 @@ Admin template based on Angular 7+, Bootstrap 4 and Nebular
 ### Technical Skills
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/Postgres-430098?style=for-the-badge&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </p>
@@ -77,10 +76,10 @@ Admin template based on Angular 7+, Bootstrap 4 and Nebular
 
 Some of my favorite phrases are:
 
-"Talk is cheap, show me the code" ~ Linus Torvalds
-"Ship to Learn" ~ a GitHub Core Value
-"Everyone you meet is fighting a battle you know nothing about. Be kind. Always." ~ Robin Williams
-"Always leave a place better than you found it." - unknown
+- "Talk is cheap, show me the code" ~ Linus Torvalds
+- "Ship to Learn" ~ a GitHub Core Value
+- "Everyone you meet is fighting a battle you know nothing about. Be kind. Always." ~ Robin Williams
+- "Always leave a place better than you found it." - unknown
 
 ```python
 {"Author": "Rich Lysakowski", "Updated": "2023-08-25" }
