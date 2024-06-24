@@ -18,13 +18,13 @@ Every week I am testing yet another LLM Agent builder application like OpenDevin
 I have a strong commitment for ***individuals to run high-performing "democratized" LOCAL AI systems*** -- that is **100% OFF-THE-CLOUD** -- without requiring ANY major cloud platforms.  ***LOCAL AI systems must not be considered "edge" nodes on the global internet.***  What people call "The Cloud" is a few Big Tech cloud platform vendors WITH COMMON GOALS TO INSOURCE AND CONTROL AS MANY TECH JOBS, PLUS AS MUCH AI POWER AS POSSIBLE.  They conspire in their commitment to lead the AI Arms race, and beat or consume competitors anywhere they arise.  Big Tech companies are steadily and substantially in-sourcing tech jobs to their own corporations, leaving millions of citizens without meaningful work.  
 
 ## Get Out of the Borg - And Back Into User-Centric Computing
-If normal citizens don't re-power, re-source, and revert "The Cloud" back to "The Edge", then entire segments of white, brown, and blue collar workers will be marginalized by 2030.  Big Tech Cloud vendors will CONTROL ALL JOBS they insource.  Once they control ("OWN") them, they will place these jobs anywhere that quality labor is cheapest.  AI agents require only electricity to work.  AI software agents don't need salaries, nutrition, nurturing, sleep, exercise, sex, emotional support, or other "human overhead".  AI agents are an obvious endpoint to "in-source" many jobs.  The argument that AI cannot produce the same high-level of quality as humans is simply wrong.  AI already (often) produces higher quality and consistency for many tasks and work products.  AI systems quality and sophistication are improving faster than most people can understand.  From the 2000s Mike Hammer's and SAP's re-engineering waves moved jobs off-shore.  In the 2020s, more jobs move off-ground to the cloud, and then disappear to AI agents and robots.  Humans left on "The Edge" will be marginalized.  The Cloud moves economic power and control away from individuals and gives it to Big Tech.  ***IT managers, CIOs, CTOs, CDOs beware! ... AI is coming for your job sooner than you think.***  Local, democractized AI will bring power back to the people.  
+If normal citizens don't re-power, re-source, and revert "The Cloud" back to "The Edge", then entire segments of white, brown, and blue collar workers will be marginalized by 2030.  Big Tech Cloud vendors will CONTROL ALL JOBS they insource.  Once they control ("OWN") them, they will place these jobs anywhere that quality labor is cheapest.  AI agents require only electricity to work.  AI software agents don't need salaries, nutrition, nurturing, sleep, exercise, sex, emotional support, or other "human overhead".  AI agents are an obvious endpoint to "in-source" jobs in Big Tech Clouds.  The argument that AI cannot produce the same high-level of quality as humans is simply wrong.  AI already (often) produces higher quality and consistency for many tasks and work products.  AI systems quality and sophistication are improving must faster than most people can understand.  From the 2000s the re-engineering waves instigated by Mike Hammer and implemented by SAP moved millions of US jobs off-shore.  In the mid-2020s, more jobs will move off-ground to the cloud, and then disappear to AI agents and robots.  Humans left on "The Edge" will be marginalized.  The Cloud moves economic power and control away from individuals and gives it to Big Tech.  ***IT managers, CIOs, CTOs, CDOs beware! ... AI is coming for your job much sooner than you think.***  Local, democractized AI will bring power back to the people.  
 
 Individuals must ensure that AI stays democratized and runs equally well locally -- off-the-cloud -- and online only when absolutely required.  Big Tech Cloud providers will prevail otherwise.  
 
-***Remember "Human Lives Matter" (HLM)!  Cloud computing is a tool, not the endpoint for society.***
+***Remember "Human Lives Matter" (HLM)  Get your head out of the clouds and back to Earth.  Cloud computing is a tool, not the endpoint for society.  ***
 
-Updated: 2024.04.12
+Updated: 2024.06.22
 
 https://www.linkedin.com/in/rich-lysakowski-phd
 
@@ -75,6 +75,12 @@ Admin template based on Angular 7+, Bootstrap 4 and Nebular
     <img src="https://img.shields.io/badge/scikit_learn-7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </p>
 
+Some of my favorite phrases are:
+
+"Talk is cheap, show me the code" ~ Linus Torvalds
+"Ship to Learn" ~ a GitHub Core Value
+"Everyone you meet is fighting a battle you know nothing about. Be kind. Always." ~ Robin Williams
+"Always leave a place better than you found it." - unknown
 
 ```python
 {"Author": "Rich Lysakowski", "Updated": "2023-08-25" }
