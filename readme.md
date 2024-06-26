@@ -17,23 +17,12 @@ Every week I am testing yet another LLM Agent builder application like OpenDevin
 ## Democratized AI-Powered By End Users Throughout the World
 I have a strong commitment for ***individuals to run high-performing "democratized" LOCAL AI systems*** -- that is **100% CLOUD LOCAL** -- without requiring ANY online cloud platforms.  ***LOCAL AI systems must not be considered "edge" nodes on the global internet.***  What people call "The Cloud" is a few Big Tech cloud platform vendors WITH COMMON GOALS TO INSOURCE AND CONTROL AS MANY TECH JOBS, AND AS MUCH AI POWER AS POSSIBLE.  The AI Arms race is to beat or consume competitors anywhere they arise.  The risk is that Big Tech cloud companies are steadily and substantially in-sourcing  jobs to their own corporations, leaving millions of citizens without meaningful work.  
 
-**AMAZON'S PERMANENT DARK CLOUDS OVER MAIN STREET**
-"Amazon's mission is to be Earth's most customer-centric company."  
--- **TRANSLATION**: Become Earth's lowest cost provider of all goods delivered fast.  
--- **HOW DID AMAZON DO IT?**  Take a big bite out of every online transaction ( Amazon taxes). 
- Relentlessly vacuum revenue and pressure profit margins to squeeze small sellers out of business.  
--- **THE RESULT**: Millions of Main Street small businesses are **permanently** closed after being vacuumed through Amazon's Tax Machine.   
-
-Amazon continues to vacuum and vacate Main Street in every small town and city across the world.  I was a regular Amazon Seller until low-cost competitive pressures pushed prices down so far that I could not afford to fulfill orders.  Amazon has not learned what the Huns and Mongols figured out in the Middle Ages...  tax but don't kill your suppliers.  Main Street and neighborhood shopping districts across the world died or are zombies that will never humanize again.  The cost to society, families, and livelihoods cannot be counted.
-
 ## Earth Must Return to User-Centric Computing
 Citizens must re-power, re-source, and revert "The Cloud" back to "The Edge", or entire segments of white, brown, and blue collar workers will be marginalized by 2030.  Once clouds companies "OWN" jobs, they can and will be placed jobs anywhere that quality labor is cheapest and highest quality.  AI agents require only electricity to work.  AI agents don't need salaries, nutrition, nurturing, sleep, exercise, sex, emotional support, vacations, or other "human overhead".  AI agents are an obvious endpoint to "in-source" jobs once cloud companies them.  The argument that AI cannot produce the same high-level of quality as very intelligent and compassionate humans is simply wrong.  AI already (often) produces higher quality and consistency for many tasks and work products.  AI systems quality and sophistication are improving must faster than most people can comprehend.  From the 2000s the re-engineering waves instigated by Mike Hammer and implemented by SAP moved millions of US jobs off-shore.  In the mid-2020s, more jobs will move off-ground to the cloud, and in the early 2030s, many jobs will disappear to AI agents and robots.  Humans left on "The Edge" will be marginalized.  The Cloud moves economic power and control away from individuals and gives it to Big Tech.  ***White collar IT managers, CIOs, CTOs, CDOs beware! ... AI is coming for your job much sooner than you think.***  Local, democractized AI must bring power back to the people.  
 
 Individuals must ensure that AI stays democratized and runs equally well locally -- local-first -- and move online when absolutely required to train AI models, then back to local devices.  Distributed Tech (local clouds) must prevail in the best interests of individuals.  
 
-***Remember "Human Lives Matter" (HLM)  Get your head out of the clouds and back to Earth.  Cloud computing is a tool, not the endpoint for society.  ***
-
-Updated: 2024.06.22
+***Remember "Human Lives Matter" (HLM)! Get out of the clouds and put jobs back on Earth.  Cloud computing is a tool, not the endpoint for society.  ***
 
 https://www.linkedin.com/in/rich-lysakowski-phd
 
@@ -87,9 +76,9 @@ Some of my favorite phrases are:
 
 - "Talk is cheap, show me the code" ~ Linus Torvalds
 - "Ship to Learn" ~ a GitHub Core Value
+- "Always leave a place better than you found it." - Unknown
 - "Everyone you meet is fighting a battle you know nothing about. Be kind. Always." ~ Robin Williams
-- "Always leave a place better than you found it." - unknown
 
 ```python
-{"Author": "Rich Lysakowski", "Updated": "2023-08-25" }
+{"Author": "Rich Lysakowski", "Updated": "2024.06.22" }
 ```
