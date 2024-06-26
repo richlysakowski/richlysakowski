@@ -18,10 +18,12 @@ Every week I am testing yet another LLM Agent builder application like OpenDevin
 I have a strong commitment for ***individuals to run high-performing "democratized" LOCAL AI systems*** -- that is **100% CLOUD LOCAL** -- without requiring ANY online cloud platforms.  ***LOCAL AI systems must not be considered "edge" nodes on the global internet.***  What people call "The Cloud" is a few Big Tech cloud platform vendors WITH COMMON GOALS TO INSOURCE AND CONTROL AS MANY TECH JOBS, AND AS MUCH AI POWER AS POSSIBLE.  The AI Arms race is to beat or consume competitors anywhere they arise.  The risk is that Big Tech cloud companies are steadily and substantially in-sourcing  jobs to their own corporations, leaving millions of citizens without meaningful work.  
 
 **AMAZON'S PERMANENT DARK CLOUDS OVER MAIN STREET**
-***TESTAMENT***: "Amazon's mission is to be Earth's most customer-centric company."  
-**TRANSLATION**: Become Earth's lowest cost provider of goods delivered fast.  Take a big bite out of every online transaction (the Amazon tax). 
-**HOW DID AMAZON DO IT?**  Relentlessly vacuum revenue and pressure profit margins to squeeze small sellers out of business.  
-**THE RESULT**: Millions of Main Street small businesses are **permanently** closed after being vacuumed through Amazon's Tax Machine.   
+"Amazon's mission is to be Earth's most customer-centric company."  
+-- **TRANSLATION**: Become Earth's lowest cost provider of all goods delivered fast.  
+-- **HOW DID AMAZON DO IT?**  Take a big bite out of every online transaction ( Amazon taxes). 
+ Relentlessly vacuum revenue and pressure profit margins to squeeze small sellers out of business.  
+-- **THE RESULT**: Millions of Main Street small businesses are **permanently** closed after being vacuumed through Amazon's Tax Machine.   
+
 Amazon continues to vacuum and vacate Main Street in every small town and city across the world.  I was a regular Amazon Seller until low-cost competitive pressures pushed prices down so far that I could not afford to fulfill orders.  Amazon has not learned what the Huns and Mongols figured out in the Middle Ages...  tax but don't kill your suppliers.  Main Street and neighborhood shopping districts across the world died or are zombies that will never humanize again.  The cost to society, families, and livelihoods cannot be counted.
 
 ## Earth Must Return to User-Centric Computing
