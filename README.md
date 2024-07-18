@@ -42,7 +42,11 @@ Hackaton Copa 2019 (BackEnd)
 
 ## [Hackaton Copa 2019 (AI)](https://github.com/OctoCode/hackaton-ai)
 
-Hackaton Copa 2019 (AI) 
+
+ScrapeGraphAI 2024 (AI) 
+
+## [ScrapeGraphAI 2024 (AI)](https://github.com/richlysakowski/Scrapegraph-ai)
+
 
 <!--**alg2code/alg2code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
