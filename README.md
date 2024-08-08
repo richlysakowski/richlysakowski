@@ -76,14 +76,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/scikit_learn-7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </p>
 
-
 ```python
 {"Author": "Quentin Keller", "Updated": "2028-08-07" }
 ```
-
-
-
-
-    {'Author': 'Quentin Keller', 'Updated': '2028-08-07'}
-
-
