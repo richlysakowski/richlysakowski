@@ -1,5 +1,7 @@
 # **Quentin Keller - AI-Powered Data Analytics Specialist and Python Developer**
 
+![Welcome!](https://raw.githubusercontent.com/diandramelo/diandramelo/main/welcome.gif)
+
 Data Scientist and Data Analytics Engineer passionate about working with data in many business enviroments.  My technical areas of expertise include application design and development  in Python, SQL, and web (HTML, CSS, Javascript) languages in Docker, Windows, and Linux environments.  I have experience with dozens of Python packages for analytics and web development.  My portfolio includes many projects where I have applied my data analytics, website development, statistics and machine learning skills. <br><br> Contact me to learn more and engage my skills on your project.<br><br>
 
 <a href="https://www.linkedin.com/in/quentinkeller/" rel="nofollow">
@@ -13,8 +15,6 @@ Data Scientist and Data Analytics Engineer passionate about working with data in
 ***IMAGE SCALED TO 45% BUT NOT WIDE ENOUGH***
 
 <img src="data-science.jpg" width="45%"/>
-
-![Welcome!](https://raw.githubusercontent.com/diandramelo/diandramelo/main/welcome.gif)
 
 ***banner image rotating gif made smaller***
 
