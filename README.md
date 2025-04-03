@@ -8,6 +8,7 @@ Passionate about applying leading-edge technologies for intelligent data discove
 I actively research and develop applications, and training to harness Generative AI, Prompt Engineering, and intelligent workflow chaining applications using Large Language Models.  I have experience with 100s of Python packages to develop applications and utilities for AI, advanced predictive analytics, ML, deep learning, and web-based systems.  I have 30+ years experience developing and delivering training curricula, courses, workshops, and short courses.  I teach from time to time, but my passion is hands-on training with tools and methods so that people learn faster and remember for longer.  
 
 I love applying my business analysis and technical skills in large and small enterprises.  I am an acknowledged SME expert in data and records management, IT systems, software engineering, and scientific informatics across value chains in pharmaceutical and biotech R&D through Manufacturing, Finance and trading.  Contact me to engage my skills on your project.
+
 ---
 
 <details>
@@ -16,14 +17,17 @@ I love applying my business analysis and technical skills in large and small ent
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/streamlit-original-wordmark.svg" alt="Streamlit" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask-original-wordmark.svg" alt="Flask" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  -->
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/2852129/120996738-e36c4200-c786-11eb-9b8b-ade79e996d7e.png" alt="React Native" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" />  
 </div>
 </td><td valign="top" width="33%">
@@ -31,15 +35,17 @@ I love applying my business analysis and technical skills in large and small ent
 ### Backend  
 <div align="center"> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pandas-original.svg" alt="Pandas" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sqlserver-original-wordmark.svg" alt="SQL Server" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/2852129/120996992-1e6e7580-c787-11eb-9906-82e7b8857cc0.png" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" />  -->
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/2852129/120996992-1e6e7580-c787-11eb-9906-82e7b8857cc0.png" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
  
 </div>
 
@@ -63,7 +69,7 @@ I love applying my business analysis and technical skills in large and small ent
 ---
 
 ## Development Work
-In my personal time, I am actively learning and applying the State Of The Art (SOTA) Generative AI and deep learning tools and packages.  I am working to SMARTLY SIMPLIFY advanced AI and data analytics.  There are (too) many steep mountains to climb before the masses can apply deeply AI technologies.  **TOO MUCH AI NOISE -- and NOT ENOUGH SIGNAL!**  People must discover first-hand what really works.  We must raise the baseline of AI wisdom high above popular media hype.  My job as a trainer is to transfer hard skills and know-how to my trainees and clients.  AI technology is advancing FAST toward "AGI".  First it was the pitter patter of baby steps, but now the gallop has started, with leapfrogs every other week.  ***Major breakthroughs in 2024 within months will cause seismic shifts in the balance of power between humans and AI agents.***  
+In my available time, I am actively applying State Of The Art (SOTA) Generative AI and deep learning tools and packages.  Keep It Smart and SIMPLIFY advanced AI and data analytics.  There are still too many steep mountains to climb before the masses can apply AI technologies.  **TOO MUCH AI NOISE -- and NOT ENOUGH SIGNAL!**  People must discover first-hand what really works.  We must raise the baseline of AI wisdom high above popular media hype.  My job as a trainer is to transfer hard skills and know-how to my trainees and clients.  AI technology is advancing FAST toward "AGI".  First it was the pitter patter of baby steps, but now the gallop has started, with leapfrogs every other week.  ***Major breakthroughs in 2024 within months will cause seismic shifts in the balance of power between humans and AI agents.***  
 
 Every week I am testing yet another LLM Agent builder application like AutoGPT, MetaGPT, LocalGPT, DoctorGPT, DB-GPT, Pinokio, GPT-Engineer, AutoGen Studio, CrewAI and various domain-specific tools.  My goal is to learn and apply AIML and Large Language Models (LLMs) toolchains as fast as possible for creating business value from Generative AI applied to code, text, images, finance, and music.  I want to accelerate human learning, help people multiply their individual power, thereby  contributing more meaningfully to new businesses.  
 
