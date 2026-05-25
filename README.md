@@ -12,7 +12,7 @@ Passionate about applying leading-edge technologies for intelligent data discove
 ```text
 🏗️  Architecture First    →  Every good system starts with a solid blueprint before a single line of code.
 ⚡  Simplicity Wins        →  The best solution is the one your team can understand at 3 AM.
-📐  Measure, Don't Guess   →  Data-driven decisions, not gut feelings — observability and validation are non-negotiable.
+📐  Measure & Validate     →  To specify, verify, and validate are non-negotiable.  Engineer, Don't Vibe Code.
 🤝  Teams > Individuals    →  A CTO's real output is the team's velocity, not their own commits.
 🔄  Iterate Relentlessly   →  Ship fast, learn faster.  **Perfect is the enemy of production.**
 ```
