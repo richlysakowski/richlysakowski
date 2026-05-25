@@ -1,8 +1,7 @@
 # Rich Lysakowski, Ph.D.
-## Chief Technology Officer, Business Analyst, AI & BI Architect, Process Engineer, Systems Developer, Data Scientist, and Systems Admin.
+## CTO, Business Analyst, AI Architect, Process Engineer, Developer, Data Scientist, and Tech Admin.
 
-Expert in scientific informatics across value chains in pharmaceutical and biotech, from R&D through Manufacturing, Finance and Trading
-in R&D.  Deep knowledge in software engineering, data and records management, and IT systems design and support.  The Godfather of Electronic Laboratory Notebooks for industrial applications.  
+Expert in scientific and business informatics across value chains in Pharma, Biotech, Finance, Trading from R&D through Production Manufacturing.  Deep knowledge in R&D, software engineering, data and records management, and IT systems design and support.  The Godfather of Electronic Laboratory Notebooks for industrial applications.  
 
 <p dir="auto" align="left">
 Passionate about applying leading-edge technologies for intelligent data discovery and collection, analytics, visualization, and reporting in business and industrial environments.  Technical expertise encompass full SDLC skills from business and systems analysis, design, programming, debugging, deployment, support, and training.  Favorite languages are Python, SQL, and web languages (HTML, CSS, Javascript) on Windows, Linux, Docker, and Azure/AWS/GCP Cloud environments (as required). 
@@ -22,9 +21,9 @@ Actively research and develop systems and tools to harness Generative AI for reg
 
 I have done dozens of business analysis, and systems and vendor selection projects for large and small enterprises.  I have experience with 100s of Python packages for developing advanced AI applications, predictive analytics, ML, deep learning, and web-based systems.  
 
-My long-time passion is hands-on transfer of problem-solving "know-how" and tools, with the main goal of training people to become auto-didactic.  I spent 30+ years delivering custom training curricula, workshops, and short courses, and I still "teach" when needed.  However,  I get the greatest satisfaction when I train others to solve their own hard problems faster.  Transferring auto-didact skills accelerates trainees progress in life forever.   
+My long-time passion is hands-on transfer of problem-solving "know-how" and tools, with the main goal of training people to become auto-didactic.  I spent 30+ years delivering custom training curricula, workshops, and short courses, and I still "teach" when needed.  However,  I get the greatest satisfaction when I train others to solve their own hard problems faster.  Transferring auto-didact skills accelerates people's progress in life forever.   
 
-Contact me to engage my skills on your project.
+Contact me to engage our deepest skills on your projects.
 
 ---
 
