@@ -1,5 +1,5 @@
 # Rich Lysakowski, Ph.D.
-## CTO, Business Analyst, AI Architect, Data Scientist and Process Engineer, Apps Developer.
+## CTO, Business Analyst, AI Architect, Data Scientist, Process Engineer, Apps Developer.
 
 Expert in scientific and business informatics across value chains in Pharma, Biotech, Finance, Trading from R&D through Production Manufacturing.  Deep knowledge in R&D, software engineering, data and records management, and IT systems design and support.  The Godfather of Electronic Laboratory Notebooks for industrial applications.  
 
