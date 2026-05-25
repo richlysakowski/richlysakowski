@@ -13,7 +13,7 @@ Passionate about applying leading-edge technologies for intelligent data discove
 ⚡  Simplicity Wins        →  The best solution is the one your team can understand at 3 AM.
 📐  Measure & Validate     →  To specify, verify, and validate are non-negotiable.  Engineer, Don't Vibe Code.
 🤝  Teams > Individuals    →  A CTO's real output is the team's velocity, not their own commits.
-🔄  Iterate Relentlessly   →  Ship fast, learn faster.  **Perfect is the enemy of production.**
+🔄  Iterate Relentlessly   →  Ship fast, learn faster.  Perfect is the enemy of production.
 ```
     
 ## Current R&D Work
